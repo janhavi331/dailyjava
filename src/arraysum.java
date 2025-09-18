@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class array1{
+public class arraysum{
     public static void main(String[]args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter size of array:");
